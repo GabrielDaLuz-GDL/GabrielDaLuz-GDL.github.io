@@ -104,13 +104,10 @@ body {
     }
 }
 
-/* CÓDIGO A ADICIONAR NO SEU STYLE.CSS */
-
 .section-padding {
-    padding: 80px 10% 50px 10%; /* Garante espaçamento em todas as seções */
+    padding: 80px 10% 50px 10%; 
 }
 
-/* Pequeno ajuste visual para os cards de projeto (opcional, mas recomendado) */
 .projects .card .btn {
     padding: 8px 15px;
 }

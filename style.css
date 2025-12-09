@@ -13,6 +13,19 @@
     --highlight-color: rgba(18, 115, 241, 0.852);
 }
 
+.final-msg {
+    margin-top: 40px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0d0d0d;
+    color: #fff;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
